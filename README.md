@@ -1,6 +1,6 @@
 # Calculadora com back-end Deno
 
-### Versão 0.2.2-alpha
+### Versão 0.3.2-beta
 
 Projeto para treinar WebSocket no Deno, usando TypeScript.
 
